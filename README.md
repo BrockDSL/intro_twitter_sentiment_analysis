@@ -15,7 +15,7 @@ This tutorial will show you how to perform some basic Twitter Sentiment Analysis
 # Setup
 
 1. Install Jupyter in a way that works for you. Anaconda is a good option
-2. Clone with Repository
+2. Clone the Repository
 3. Place your downloaded archive in the same directory
 4. Open the [Notebook](https://github.com/BrockDSL/intro_twitter_sentiment_analysis/blob/master/sentiment.ipynb)
 5. Go through each cell in the notebook
